@@ -1,3 +1,8 @@
+- - - -
+post_title: 'Welcome'
+layout: page
+published: false
+- - - -
 # Welcome
 #bap/welcome
 
